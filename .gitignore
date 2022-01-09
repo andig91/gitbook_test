@@ -11,6 +11,9 @@
 # Icon must end with two \r
 Icon
 
+# Single Files
+test.txt
+test123/
 
 # Thumbnails
 ._*
